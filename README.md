@@ -323,3 +323,12 @@ For those looking to deepen their understanding of RAG systems, consider explori
 - Workshops and courses on vector databases, embedding models, and LLM integration
 
 By staying engaged with the rapidly evolving RAG ecosystem, you'll be well-positioned to build sophisticated, knowledge-enhanced AI applications that push the boundaries of what's possible with language models.
+
+## Participation Form  
+
+Fill out the Google Form to join the **RAG System Challenge**:  
+[**Participate Now**](https://forms.gle/T3z19DHJAArLRVdE6) 🚀  
+
+## Clarification
+
+If you encounter any confusion or need further clarification, please feel free to reach out in the discussion section: [Clarification Discussion](https://github.com/smnhasan/uiu-ai-session/discussions/1)
