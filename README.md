@@ -177,11 +177,6 @@ The RAG system follows a structured pipeline, divided into the following key sta
 
 ---
 
-## **Conclusion**
-The RAG system enhances chatbot responses by incorporating real-world knowledge from external sources. By combining retrieval with generation, it improves factual accuracy and relevance, making the system more effective in real-world applications.
-
-Let me know if you need any refinements!
-
 ## Notebook
 You can find the notebook on kaggle too.
 - [RAG System](https://www.kaggle.com/code/smnahidhasannascenia/rag-system)
