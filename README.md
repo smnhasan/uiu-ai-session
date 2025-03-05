@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG): A Comprehensive Guide
 
-![RAG System](/images/rag_system.png)
+![RAG System](/images/rag_system_diagram.png)
 
 ## Introduction
 
